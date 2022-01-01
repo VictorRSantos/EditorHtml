@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Balta.io\\EditorHtmk\\EditorHtmk.csproj",
-      "projectName": "EditorHtmk",
-      "projectPath": "S:\\Balta.io\\EditorHtmk\\EditorHtmk.csproj",
+      "projectUniqueName": "S:\\Balta.io\\EditorHtml\\EditorHtml.csproj",
+      "projectName": "EditorHtml",
+      "projectPath": "S:\\Balta.io\\EditorHtml\\EditorHtml.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "S:\\Balta.io\\EditorHtmk\\obj\\",
+      "outputPath": "S:\\Balta.io\\EditorHtml\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
